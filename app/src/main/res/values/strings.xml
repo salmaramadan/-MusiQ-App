@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MusiQ</string>
+
+
+    <string-array name="api_keys">
+        <item>AIzaSyB8RbcQZ9mduHObgVtgGyPhDCfMmlQuwzQ</item>
+        <item>AIzaSyB1etbsm8jhwJhDb1V9vMnlzyC3vCPrWHY</item>
+        <item>AIzaSyAm3lqAoY9RT6awSWWiPrW5hwxBKUbGog0</item>
+        <item>AIzaSyAZ-b9O3q_MBadbdb-0bq-F01echKQSkEE</item>
+        <item>AIzaSyCTrjpj0D9Pn7P4RVJF9Qq2ass2WPY4A4M</item>
+        <item>AIzaSyB0OXzS1-uEMIYkZzgo-q5J04Zdc1f4TDU</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="playAll">Play All</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="dummySongName">Daneliya Tuleshova - Tears of Gold Tears of Gold</string>
+    <string name="nowPlay">Now playing</string>
+    <string name="searchHint">Search Youtube</string>
+    <string name="dummySongName2">dummySongNamedummySongNamedummySongNamedummySongNamedummySongName</string>
+    <string name="ArtistName">Artist name</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="SongName">Song name</string>
+    <string name="anotherWay">Try another way..</string>
+    <string name="addPlayList">Add new playlist</string>
+    <string name="title">Title</string>
+    <string name="craete">Create</string>
+    <string name="addToPlayList">Add to playlist</string>
+    <string name="newplaylist">Create new pLaylist</string>
+    <string name="recentlyPlayed">Recently Played</string>
+    <string name="allPLaylists">All PLaylists</string>
+    <string name="publishDate">publish: 01/02/2020</string>
+    <string name="defDate">October 2021</string>
+    <string name="playLists">Playlists</string>
+    <string name="selected_item">1 Track Selected</string>
+    <string name="storageSpace"><![CDATA[Available Storage-> 5.4G Free/32.0 GB]]></string>
+    <string name="storagePath">Save Path:/Storage/emulated/0/download/Mussiqal/</string>
+    <string name="music">Music</string>
+    <string name="startDownload">Start Download</string>
+    <string name="high_speed">High Speed</string>
+    <string name="tracks_lyrics">Tracks Lyrics</string>
+    <string name="my_downloads">My Downloads</string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69818250471",
+    "project_id": "mp3player-f1171",
+    "storage_bucket": "mp3player-f1171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69818250471:android:2fc01a8111671248b2de42",
+        "android_client_info": {
+          "package_name": "com.example.musiqal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_MMeBaMDrYZmSFqlJLBFO_W4bOSS3fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
