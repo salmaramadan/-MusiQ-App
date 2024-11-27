@@ -21,7 +21,7 @@
 <h2>Demo</h2>
 <p align="center">
 <video width="70%" controls>
-    <source src="https://github.com/user-attachments/assets/d06c7ac3-5415-4dca-b86d-2d446143f8b2.mp4" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/d06c7ac3-5415-4dca-b86d-2d446143f8b2" type="video/mp4">
   </video>
 </p>
 <h2>Technologies Used</h2>
