@@ -17,13 +17,6 @@
   <li><strong>Custom Music Player:</strong> Shuffle, repeat, and organize your playlists.</li>
   <li><strong>Elegant UI:</strong> Inspired by popular music apps for a smooth experience.</li>
 </ul>
-
-<h2>Demo</h2>
-<p align="center">
-<video width="70%" controls>
-    <source src="https://github.com/user-attachments/assets/d06c7ac3-5415-4dca-b86d-2d446143f8b2" type="video/mp4">
-  </video>
-</p>
 <h2>Technologies Used</h2>
 <ul>
   <li><strong>Kotlin, MVVM, Coroutines</strong></li>
@@ -31,4 +24,14 @@
   <li><strong>YouTube API and Download Manager</strong></li>
   <li><strong>Clean Architecture Principles</strong></li>
 </ul>
+
+<h2>Demo</h2>
+<p align="center">
+<video width="70%" controls>
+    <source src="https://github.com/user-attachments/assets/d06c7ac3-5415-4dca-b86d-2d446143f8b2" type="video/mp4">
+  </video>
+</p>
+
+
+https://github.com/user-attachments/assets/0b4db48b-9f94-4235-8506-763feabc0cef
 
